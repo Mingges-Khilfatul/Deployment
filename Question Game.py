@@ -29,5 +29,12 @@ else:
     print('Sorry, you just answer with "Text" or "Number"')
 
 print('Thank you for your applying, but sorry the system cant get you to game room.')
-print('You can try in another day, see you...')
+print('You can try in another day, see you...:)')
+
+print("Before, i am leave. please give me a name. I don't accept rejection.")
+Name3 = input("Name :")
+
+print("Hhmm... Not bad. At least there's no dirty word in it. But thank you, have a nice day " + Name2)
+
+
 
